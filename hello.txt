@@ -1,2 +1,7 @@
 some other file that says hello
 2nd line added
+connected to github
+new commits to practice
+
+
+feature 1 new commits
